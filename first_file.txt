@@ -1,1 +1,4 @@
-This is the fist file added to the project.
+This is the fist file added to my project.
+
+This file comes before the others.
+Git is tracking my changes
